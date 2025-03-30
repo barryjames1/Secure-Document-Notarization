@@ -11,3 +11,7 @@ K
 tests/document-hash.test.ts,1/5/15123a5c8b5ada8ac30bea613052a8ba21e111bf
 C
 tests/test-utils.js,6/1/61f8ab4eaa3de5d13a6bff15eb44cd99d0d35ba1
+R
+"contracts/notary-verification.clar,9/0/9006aa1e8011ee65b89e0340eab520c9be920d0e
+Q
+!tests/notary-verification.test.ts,c/0/c0196d3843403703057d14df83b7d572289cae1f
